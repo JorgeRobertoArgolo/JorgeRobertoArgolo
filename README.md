@@ -36,48 +36,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,dart,flutter,androidstudio,c,clion,css,firebase,git,github,gradle,html,idea,js,linux,md,mysql,postgres,postman,react,vscode,spring&theme=light)](https://skillicons.dev)
 
 ---
+### Estatísticas do GitHub
 
-<h2>⚙️ GitHub Analytics</h2>
+<div style="display: flex; justify-content: space-around;">
+    <img width="435em" src="https://github-profile-trophy.vercel.app/?username=jorgerobertoargolo&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgerobertoargolo&show_icons=true&locale=en&layout=compact&theme=radical" alt="jorgerobertoargolo's Most used lang" />
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=jorgerobertoargolo&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgerobertoargolo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jorgerobertoargolo&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-<h3>🏆 GitHub Profile Trophy</h3>
-
-<p align="center">
-  <a
-    href="https://github.com/jorgerobertoargolo/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=jorgerobertoargolo&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+---
