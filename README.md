@@ -1,46 +1,52 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá, sou Jorge Roberto Argolo. Eu sou Engenheiro de Software Full Stack e Mobile, especializado em Java, Spring boot, Flutter, React e JavaScript. Sou apaixonado pelo desenvolvimento de aplicações e atualmente estou cursando
-  a faculdade de análise e desenvolvimento de sistemas no IFBA Campus Irecê.
+### Olá, sou Jorge Roberto
+
+Sou Desenvolvedor **FullStack** com foco em **Backend**, especializado em Java, Spring Boot, Typescript e React. Sou apaixonado pelo desenvolvimento de aplicações web, e meu objetivo é criar soluções inovadoras que impulsionem o sucesso do negócio/empresa. Abaixo, segue as principais tecnologias que utilizo para desenvolver, testar, documentar, versionar e hospedar aplicações:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,bootstrap,javascript,typescript,html,css,vite,nextjs,tailwind,react" />
+  </a>
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Java, Spring boot, Flutter, React, JavaScript</strong>, HTML, CSS, Bootstrap, C, SQL 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,supabase" />
+  </a>
 </p>
+---
 
-<p align="left">
-  💼 Ferramentas: Jasper Report, POSTMAN, Android Studio, IntelliJ, VS Code, Postgresql, MySql
-</p>
+### 🔭 Minhas Experiências Profissionais
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
-<p align="left">
-  <a href="jorgerobertoargolo@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
-</a>
-  <a href="https://www.linkedin.com/in/jorge-roberto-argolo" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>/</a>
-  <!--<a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>-->
-</p>
-<br>
-<h2>🚀 Minhas Skills</h2>
+[<img align="left" height="94px" width="94px" alt="Projeto Cidades Inteligentes" src="https://avatars.githubusercontent.com/u/242055893?s=200&v=4">](https://www.instagram.com/cidadesinteligentesifbairece/)
 
-[![My Skills](https://skillicons.dev/icons?i=java,dart,flutter,androidstudio,c,clion,css,firebase,git,github,gradle,html,idea,js,linux,md,mysql,postgres,postman,react,vscode,spring&theme=light)](https://skillicons.dev)
+**Engenheiro de Software Junior** \
+[**Cidades Inteligentes**](https://www.instagram.com/cidadesinteligentesifbairece/) • \
+Tecnologias: `Java`, `SpringBoot`, `React`, `NextJS`\
+Projetos: [Plataforma Digital de Processos](https://plataforma-digital-de-processos.vercel.app/), [Conecta Municípios](#)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="99Freelas" src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-19/438608607_1168823837586543_776528486229455656_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QEZWbcwgua7l0vnflWLW4zeMwHesXNyflLCgIgFs6M0xaCEO8VwEvOBfCYo8OqOK01-aF7shgWaKOh-7eeJ-H1V&_nc_ohc=9mAPAXJ-NcsQ7kNvwFOX2fr&_nc_gid=HdllNGI4p7TQs-0rf11wbQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afl-xHlzqKDWmfqOjS2nLdGOgKNbKQKOh0qKWOqVd1NOCA&oe=6945165E&_nc_sid=8b3546">](https://www.instagram.com/projetoassistirmais/)
+
+**Desenvolvedor Frontend** \
+[**Projeto Assistir+**](https://www.instagram.com/projetoassistirmais/) • \
+Tecnologias: `React`, `NextJS`, `Supabase`, `TypeScript` \
+Projetos: [Portal de Notícias: Sertão Online](https://sertaonline.com/)
+<br/>
 
 ---
 ### Estatísticas do GitHub
 
 <div style="display: flex; justify-content: space-around;">
-    <img width="435em" src="https://github-profile-trophy.vercel.app/?username=jorgerobertoargolo&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgerobertoargolo&show_icons=true&locale=en&layout=compact&theme=radical" alt="jorgerobertoargolo's Most used lang" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeRobertoArgolo&show_icons=true&locale=en&layout=compact&theme=radical" alt="JorgeRobertoArgolo's Most used lang" />
 </div>
 
 ---
+
+### Vamos nos Conectar 🌍
+- [Gmail](mailto:jorgerobertoargolo@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jorge-roberto-argolo/)
+- [Instagram](https://www.instagram.com/jorgerobertoargolo/)
+
+
