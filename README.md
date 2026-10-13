@@ -1,52 +1,94 @@
-
-### Olá, sou Jorge Roberto
-
-Sou Desenvolvedor **FullStack** com foco em **Backend**, especializado em Java, Spring Boot, Typescript e React. Sou apaixonado pelo desenvolvimento de aplicações web, e meu objetivo é criar soluções inovadoras que impulsionem o sucesso do negócio/empresa. Abaixo, segue as principais tecnologias que utilizo para desenvolver, testar, documentar, versionar e hospedar aplicações:
+<h1 align="center">Olá, sou Jorge Roberto 👋</h1>
 
 <p align="center">
+  <b>Engenheiro de Software | Desenvolvedor Backend (Java & Spring Boot) & FullStack</b><br/>
+  Focado em arquiteturas robustas, alta performance, segurança e entrega de software em produção real.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-roberto-argolo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JorgeRobertoArgolo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:jorgerobertoargolo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://conecta.irece.ba.gov.br/">
+    <img src="https://img.shields.io/badge/Em_Produção-conecta.irece.ba.gov.br-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Produção" />
+  </a>
+</p>
+
+---
+
+### 🚀 Sobre Mim
+
+Sou **Desenvolvedor FullStack com especialização em Backend**, atuando com **Java**, **Spring Boot**, **PostgreSQL**, **TypeScript**, **Next.js** e **React**. 
+
+Tenho experiência no desenvolvimento de sistemas complexos que já estão **em produção real**, atendendo milhares de usuários. Gosto de código limpo, arquiteturas bem pensadas e de entregar software que funciona de verdade — não só no localhost.
+
+---
+
+### 🛠️ Tecnologias & Habilidades
+
+<p align="center">
+  <b>Backend, Banco de Dados & Infraestrutura</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,bootstrap,javascript,typescript,html,css,vite,nextjs,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,maven,linux,git,github,postman" alt="Backend Stack" />
   </a>
 </p>
 
 <p align="center">
+  <b>Frontend, Web & Cloud</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,supabase" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css,supabase" alt="Frontend Stack" />
   </a>
 </p>
+
 ---
 
-### 🔭 Minhas Experiências Profissionais
+### 🔭 Experiências Profissionais
 
+#### 🏛️ [Cidades Inteligentes — IFBA Irecê](https://www.instagram.com/cidadesinteligentesifbairece/)
+**Engenheiro de Software Junior / Desenvolvedor FullStack (Foco Backend)**  
+*Março/2024 – Presente*  
+*Tecnologias:* `Java 17`, `Spring Boot`, `Spring Security`, `PostgreSQL`, `Flyway`, `Redis`, `Testcontainers`, `Next.js 15`, `React 19`, `TypeScript`, `Tailwind CSS`, `TanStack Query`
 
-[<img align="left" height="94px" width="94px" alt="Projeto Cidades Inteligentes" src="https://avatars.githubusercontent.com/u/242055893?s=200&v=4">](https://www.instagram.com/cidadesinteligentesifbairece/)
+Atuação no desenvolvimento e evolução do **Conecta Municípios**, ecossistema GovTech em produção oficial para a Prefeitura Municipal de Irecê/BA:
+- 🏛️ **Ambiente em Produção:** [conecta.irece.ba.gov.br](https://conecta.irece.ba.gov.br/)  
+- 📄 **Plataforma Digital de Processos:** [plataforma-digital-de-processos.vercel.app](https://plataforma-digital-de-processos.vercel.app/)
+- **Módulos Estratégicos:** Concepção e entrega de fluxos completos para **Alvará de Construção Civil**, **Alvará Sanitário de Saúde**, **Ouvidoria Municipal**, **Gestão de Manutenção Urbana**, **Mapa de Serviços Públicos**, **Agenda de Eventos**, entre outros em desenvolvimento.
+- **Engenharia de Documentos:** Geração e autenticação de certidões e plantas com carimbo digital em PDF (**Apache PDFBox**) com QR Code rastreável (**ZXing**).
+- **Otimização & Segurança:** Redução de latência de endpoints críticos via `EntityGraph` e cache distribuído com **Redis**, além de implementação de mascaramento de dados (LGPD) e controle de acesso RBAC.
+- **Cultura de Engenharia:** Revisão contínua de Pull Requests (Code Review), escrita de testes de integração com Testcontainers e alinhamento com Architectural Decision Records (ADRs).
 
-**Engenheiro de Software Junior** \
-[**Cidades Inteligentes**](https://www.instagram.com/cidadesinteligentesifbairece/) • \
-Tecnologias: `Java`, `SpringBoot`, `React`, `NextJS`\
-Projetos: [Plataforma Digital de Processos](https://plataforma-digital-de-processos.vercel.app/), [Conecta Municípios Backend](#), [Conecta Municípios Frontend](https://conectaci.com/)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="99Freelas" src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-19/438608607_1168823837586543_776528486229455656_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QEZWbcwgua7l0vnflWLW4zeMwHesXNyflLCgIgFs6M0xaCEO8VwEvOBfCYo8OqOK01-aF7shgWaKOh-7eeJ-H1V&_nc_ohc=9mAPAXJ-NcsQ7kNvwFOX2fr&_nc_gid=HdllNGI4p7TQs-0rf11wbQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afl-xHlzqKDWmfqOjS2nLdGOgKNbKQKOh0qKWOqVd1NOCA&oe=6945165E&_nc_sid=8b3546">](https://www.instagram.com/projetoassistirmais/)
+#### 📰 [Projeto Assistir+](https://www.instagram.com/projetoassistirmais/)
+**Desenvolvedor Frontend**  
+*Outubro/2025 – Junho/2026 (Projeto concluído)*  
+*Tecnologias:* `React`, `Next.js`, `TypeScript`, `Supabase`, `Tailwind CSS`
 
-**Desenvolvedor Frontend** \
-[**Projeto Assistir+**](https://www.instagram.com/projetoassistirmais/) • \
-Tecnologias: `React`, `NextJS`, `Supabase`, `TypeScript` \
-Projetos: [Portal de Notícias: Sol - Sertão Online](https://solnoticias.com.br/)
-<br/>
-
----
-### Estatísticas do GitHub
-
-<div style="display: flex; justify-content: space-around;">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeRobertoArgolo&show_icons=true&locale=en&layout=compact&theme=radical" alt="JorgeRobertoArgolo's Most used lang" />
-</div>
+- Desenvolvimento do portal de notícias **[Sol Notícias](https://solnoticias.com.br/)** — em produção, com alta circulação regional.
+- Implementação de arquitetura frontend moderna voltada para SEO, performance de renderização (SSR/SSG), acessibilidade e alta responsividade.
+- Integração com BaaS (**Supabase**) para persistência de dados, autenticação e gerenciamento de conteúdo.
 
 ---
 
-### Vamos nos Conectar 🌍
-- [Gmail](mailto:jorgerobertoargolo@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jorge-roberto-argolo/)
-- [Instagram](https://www.instagram.com/jorgerobertoargolo/)
+### 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRobertoArgolo&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais utilizadas" />
+</p>
 
+---
+
+### 📬 Vamos nos Conectar!
+
+Estou sempre aberto a novos desafios técnicos, colaborações e oportunidades na área de desenvolvimento de software:
+
+- 💼 **LinkedIn:** [linkedin.com/in/jorge-roberto-argolo](https://www.linkedin.com/in/jorge-roberto-argolo/)
+- 💻 **GitHub:** [github.com/JorgeRobertoArgolo](https://github.com/JorgeRobertoArgolo)
+- ✉️ **E-mail:** [jorgerobertoargolo@gmail.com](mailto:jorgerobertoargolo@gmail.com)
+- 📸 **Instagram:** [@jorgerobertoargolo](https://www.instagram.com/jorgerobertoargolo/)
